@@ -16,7 +16,7 @@ Pré-visualização instantânea: Não precisa adivinhar! Quando você abre uma 
 
 Salva com nome inteligente: A janela para salvar já vem com o nome original da imagem, mas com a nova extensão. É só clicar e pronto!
 
-E tem um ícone fofinho: A janela do aplicativo tem um ícone personalizado para ficar com uma cara mais profissional.
+E tem um ícone: A janela do aplicativo tem um ícone personalizado para ficar com uma cara mais descontraída.
 
 Bora instalar?
 Pra começar a usar, você só precisa do Python instalado. Depois, é só rodar um comando para instalar a biblioteca que o app usa. Bem simples!
@@ -52,4 +52,4 @@ pyinstaller --onefile --noconsole --add-data "icone.ico:." conversor_imagem.py
 Encontre o resultado: O arquivo .exe vai estar lá na pasta dist/, prontinho para ser usado.
 
 Uma Dica sobre o Ícone
-Fique de olho! O arquivo icone.ico tem que estar na mesma pasta do conversor_imagem.py pra tudo funcionar, tanto pra rodar o script quanto pra criar o executável.
+Fique de olho! O arquivo icone.ico tem que estar na mesma pasta do conversor_imagem.py pra tudo funcionar direitinho, tanto pra rodar o script quanto pra criar o executável.
